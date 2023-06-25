@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ahad's Home Page"
+title                    : "Ahad Zaman Khan"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -84,12 +84,12 @@ author:
   avatar           : "profile.png"
   bio              : "Ph.D Economics"
   location         : "Chicago, IL"
-  employer         :
+  employer         : 
    
   googlescholar    :
   email            : "ahadzaman@ku.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  github           : "academicpages"
+  github           : "ahadzaman1002"
   
   linkedin         : ahadzkhan
   stackoverflow    : # http://stackoverflow.com/users/123456/username
