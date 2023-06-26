@@ -2,7 +2,7 @@
 title: "Credit Analyst"
 collection: teaching
 type: "Wholesale Banking"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/Banking_exp
 venue: "Prime Bank Ltd"
 date: 2015-01-01
 location: "Dhaka, BD"
