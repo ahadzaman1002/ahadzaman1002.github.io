@@ -2,7 +2,7 @@
 title: "Research Assistant"
 collection: teaching
 type: "Research "
-permalink: /teaching/RA_exp
+permalink: /teaching/RA_exp 
 venue: "University of Kansas"
 date: May 2022 - Present
 location: "Lawrence, KS"
