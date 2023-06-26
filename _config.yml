@@ -191,7 +191,7 @@ defaults:
   # _teaching
   - scope:
       path: ""
-      type: experience
+      type: teaching
     values:
       layout: single
       author_profile: true
