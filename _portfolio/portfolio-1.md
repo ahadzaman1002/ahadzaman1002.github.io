@@ -7,14 +7,14 @@ collection: portfolio
     • Regressions : GLM (Linear regression, Logistic regression, Poisson regression, Fixed effect models)\\
     • Staggered DiD \\
     • Synthetic DiD & Synthetic Control \\
-    • Stacked Event Study. \\
+    • Stacked Event Study. 
   
 ■ Applied Machine learning 
     • Lasso \\
     • Random forest \\
     • XGBoost \\
     • KNN \\
-    • PCA \\
+    • PCA 
   
 ■ Quasi Experiment Design 
 
