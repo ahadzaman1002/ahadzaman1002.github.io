@@ -9,7 +9,7 @@ collection: portfolio
     • Synthetic DiD & Synthetic Control \\
     • Stacked Event Study. 
   
-■ Applied Machine learning 
+■ Applied Machine learning \\
     • Lasso \\
     • Random forest \\
     • XGBoost \\
