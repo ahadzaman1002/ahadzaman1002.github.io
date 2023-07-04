@@ -11,7 +11,7 @@ collection: portfolio
      
 ■ Quantitative Analysis
 =====
-- Risk weighted assest in the context of (Basel-II) \\
+- Risk weighted assest in the context of (Basel-II) 
 - Stress testing under CCAR 
     
 ■ Predictive Modeling
