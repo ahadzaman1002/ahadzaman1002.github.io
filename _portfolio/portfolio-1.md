@@ -1,7 +1,6 @@
 ---
 title: "Research Tools"
 collection: portfolio
-permalink: /portfolio/portfolio-1.md
 ---
 
 ■ Causal inference
