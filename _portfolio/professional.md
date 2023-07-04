@@ -12,7 +12,7 @@ collection: portfolio
     • Risk weighted assest in the context of (Basel-II) \\
     • Stress testing under CCAR 
     
-■ Predictive Modeling 
+■ Predictive Modeling \\
     • Probability of Default model with default and financial data \\
     • Loss given default \\
     • Exposure at default 
