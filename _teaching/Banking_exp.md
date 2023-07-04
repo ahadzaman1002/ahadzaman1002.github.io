@@ -4,7 +4,7 @@ collection: teaching
 type: "Wholesale Banking"
 permalink: /teaching/Banking_exp
 venue: "Prime Bank Ltd"
-date: 2010-01-05
+date: 2013-01-05
 location: "Dhaka, BD"
 ---
 
