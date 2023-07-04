@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an applied econometrician with active research in the areas of Environmental regulation & business decision related behavior. I have background in causal inference, model development, and machine learning techniques, as well as five years of banking experience in credit risk management as a credit analyst
+I am an applied econometrician with active research in the areas of Environmental regulation & business decision related behavior. I have background in causal inference, model development, and machine learning techniques, as well as three years of banking experience in credit risk management as a credit analyst
 
 A data-driven personal website 
 ======
